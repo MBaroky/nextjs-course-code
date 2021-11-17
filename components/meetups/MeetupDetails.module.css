@@ -1,0 +1,4 @@
+.meetupCont img{
+width: 100vw;
+margin-left: calc(-1 * (50vw - 50%));
+}
